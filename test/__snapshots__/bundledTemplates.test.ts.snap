@@ -1,0 +1,598 @@
+// Bun Snapshot v1, https://bun.sh/docs/test/snapshots
+
+exports[`beach-party section class lists 1`] = `
+[
+  {
+    "classes": [
+      "node-level-1",
+      "character_sheet",
+    ],
+    "id": "character_sheet",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "about",
+    ],
+    "id": "about",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "stats",
+    ],
+    "id": "stats",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "conditions",
+    ],
+    "id": "conditions",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "beach_bag",
+    ],
+    "id": "beach_bag",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "clothes",
+    ],
+    "id": "clothes",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "move",
+    ],
+    "id": "move",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "notes",
+    ],
+    "id": "notes",
+  },
+]
+`;
+
+exports[`beach-party component ids 1`] = `
+[
+  "about__portrait",
+  "about__name",
+  "about__nickname",
+  "about__player",
+  "stats__vitality",
+  "stats__composure",
+  "stats__reason",
+  "stats__presence",
+  "stats__sensitivity",
+  "conditions__condition_1",
+  "conditions__condition_2",
+  "beach_bag__item_1",
+  "beach_bag__item_2",
+  "clothes__clothes",
+  "clothes__accessories",
+  "clothes__footwear",
+  "move__move",
+  "notes__status",
+  "notes__notes",
+]
+`;
+
+exports[`beach-party component types 1`] = `
+[
+  "Media",
+  "Text",
+  "Text",
+  "Text",
+  "Number",
+  "Number",
+  "Number",
+  "Number",
+  "Number",
+  "Text",
+  "Text",
+  "Text",
+  "Text",
+  "Textarea",
+  "Textarea",
+  "Textarea",
+  "Select",
+  "Text",
+  "Textarea",
+]
+`;
+
+exports[`beach-party-npc section class lists 1`] = `
+[
+  {
+    "classes": [
+      "node-level-1",
+      "npc",
+    ],
+    "id": "npc",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "about",
+    ],
+    "id": "about",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "playing",
+    ],
+    "id": "playing",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "notes",
+    ],
+    "id": "notes",
+  },
+]
+`;
+
+exports[`beach-party-npc component ids 1`] = `
+[
+  "about__portrait",
+  "about__name",
+  "about__role",
+  "about__description",
+  "playing__voice_and_manners",
+  "playing__quote",
+  "notes__status",
+  "notes__notes",
+]
+`;
+
+exports[`beach-party-npc component types 1`] = `
+[
+  "Media",
+  "Text",
+  "Text",
+  "Textarea",
+  "Textarea",
+  "Textarea",
+  "Text",
+  "Textarea",
+]
+`;
+
+exports[`sampler section class lists 1`] = `
+[
+  {
+    "classes": [
+      "node-level-2",
+      "banner",
+    ],
+    "id": "banner",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "identity",
+    ],
+    "id": "identity",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "traits",
+    ],
+    "id": "traits",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "talents",
+    ],
+    "id": "talents",
+  },
+  {
+    "classes": [
+      "node-level-3",
+      "hands",
+    ],
+    "id": "talents__hands",
+  },
+  {
+    "classes": [
+      "node-level-3",
+      "feet",
+    ],
+    "id": "talents__feet",
+  },
+  {
+    "classes": [
+      "node-level-3",
+      "head",
+    ],
+    "id": "talents__head",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "lore",
+    ],
+    "id": "common_lore",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "lore",
+    ],
+    "id": "rare_lore",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "lore",
+      ".faded",
+    ],
+    "id": "deep_lore",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "strain_rest",
+    ],
+    "id": "strain_rest",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "bonds",
+    ],
+    "id": "bonds",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "satchel",
+    ],
+    "id": "satchel",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "tools",
+    ],
+    "id": "tools",
+  },
+  {
+    "classes": [
+      "node-level-3",
+      "tool_1",
+    ],
+    "id": "tools__tool_1",
+  },
+  {
+    "classes": [
+      "node-level-3",
+      "tool_2",
+    ],
+    "id": "tools__tool_2",
+  },
+  {
+    "classes": [
+      "node-level-3",
+      "tool_3",
+    ],
+    "id": "tools__tool_3",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "dice",
+    ],
+    "id": "dice",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "oracle",
+    ],
+    "id": "oracle",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "notes",
+    ],
+    "id": "notes",
+  },
+  {
+    "classes": [
+      "node-level-3",
+      "session",
+    ],
+    "id": "notes__session",
+  },
+  {
+    "classes": [
+      "node-level-3",
+      "campaign",
+    ],
+    "id": "notes__campaign",
+  },
+]
+`;
+
+exports[`sampler component ids 1`] = `
+[
+  "identity__portrait",
+  "identity__name",
+  "identity__moniker",
+  "identity__hometown",
+  "identity__age",
+  "identity__calling",
+  "identity__temper",
+  "identity__upbringing",
+  "identity__quirks",
+  "identity__habits",
+  "identity__path",
+  "identity__sj_lv_bild",
+  "identity__look",
+  "traits__grit",
+  "traits__knack",
+  "traits__poise",
+  "traits__spark",
+  "traits__luck",
+  "traits__total",
+  "traits__edge",
+  "hands__hands_rating",
+  "hands__hands_target",
+  "hands__mending",
+  "hands__whittling",
+  "hands__media",
+  "feet__feet_rating",
+  "feet__feet_target",
+  "feet__rowing",
+  "feet__zero_g",
+  "head__head_rating",
+  "head__head_target",
+  "head__mech_repair",
+  "head__a_i",
+  "common_lore__stargazing",
+  "common_lore__tidewatching",
+  "common_lore__knots",
+  "rare_lore__old_tongues",
+  "rare_lore__weather_signs",
+  "deep_lore__unnamed_things",
+  "strain_rest__strain",
+  "strain_rest__scars",
+  "strain_rest__spent",
+  "strain_rest__sore",
+  "strain_rest__rest_clock",
+  "strain_rest__ledger",
+  "strain_rest__rule",
+  "strain_rest__warning",
+  "bonds__bond",
+  "bonds__bond_2",
+  "bonds__bond_3",
+  "bonds__rival",
+  "bonds__note",
+  "bonds__note_2",
+  "bonds__note_3",
+  "satchel__item",
+  "satchel__item_2",
+  "satchel__item_3",
+  "satchel__item_4",
+  "satchel__coins",
+  "satchel__pack",
+  "satchel__spare",
+  "tool_1__name",
+  "tool_1__bonus",
+  "tool_1__reach",
+  "tool_1__wear",
+  "tool_2__name",
+  "tool_2__bonus",
+  "tool_2__reach",
+  "tool_2__wear",
+  "tool_3__name",
+  "tool_3__bonus",
+  "tool_3__reach",
+  "dice__check",
+  "dice__damage",
+  "dice__oracle",
+  "dice__push",
+  "dice__ask",
+  "dice__once",
+  "session__notes",
+  "campaign__notes",
+  "campaign__seal",
+  "campaign__badge",
+]
+`;
+
+exports[`sampler component types 1`] = `
+[
+  "Media",
+  "Text",
+  "Text",
+  "Text",
+  "Number",
+  "Select",
+  "Radio",
+  "Radio",
+  "MultiSelect",
+  "MultiSelect",
+  "Select",
+  "Text",
+  "Textarea",
+  "Number",
+  "Number",
+  "Number",
+  "Number",
+  "Number",
+  "Computed",
+  "Modifier",
+  "Number",
+  "Computed",
+  "Number",
+  "Number",
+  "Number",
+  "Number",
+  "Computed",
+  "Number",
+  "Number",
+  "Number",
+  "Computed",
+  "Number",
+  "Number",
+  "Checks",
+  "Checks",
+  "Checks",
+  "Checks",
+  "Checks",
+  "Checks",
+  "Checks",
+  "Checks",
+  "Checks",
+  "Checks",
+  "Checks",
+  "Checks",
+  "Value",
+  "Value",
+  "Actor",
+  "Actor",
+  "Actor",
+  "Actor",
+  "Text",
+  "Text",
+  "Text",
+  "Text",
+  "Text",
+  "Text",
+  "Text",
+  "Number",
+  "Resource",
+  "Resource",
+  "Text",
+  "Number",
+  "Select",
+  "Checks",
+  "Text",
+  "Number",
+  "Select",
+  "Checks",
+  "Text",
+  "Number",
+  "Select",
+  "Dice",
+  "Dice",
+  "Dice",
+  "Roll",
+  "Action",
+  "Action",
+  "Textarea",
+  "Textarea",
+  "Media",
+  "Media",
+]
+`;
+
+exports[`simple-rpg section class lists 1`] = `
+[
+  {
+    "classes": [
+      "node-level-1",
+      "character_sheet",
+    ],
+    "id": "character_sheet",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "attributes",
+    ],
+    "id": "attributes",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "identity",
+    ],
+    "id": "identity",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "combat",
+    ],
+    "id": "combat",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "gear",
+    ],
+    "id": "gear",
+  },
+  {
+    "classes": [
+      "node-level-2",
+      "notes",
+    ],
+    "id": "notes",
+  },
+]
+`;
+
+exports[`simple-rpg component ids 1`] = `
+[
+  "attributes__strength",
+  "attributes__dexterity",
+  "attributes__constitution",
+  "attributes__intelligence",
+  "attributes__wisdom",
+  "attributes__charisma",
+  "identity__name",
+  "identity__class",
+  "identity__fighting_style",
+  "identity__race",
+  "identity__level",
+  "identity__background",
+  "identity__training",
+  "combat__hp",
+  "combat__max_hp",
+  "combat__ac",
+  "combat__initiative",
+  "gear__items",
+  "notes__description",
+]
+`;
+
+exports[`simple-rpg component types 1`] = `
+[
+  "Number",
+  "Number",
+  "Number",
+  "Number",
+  "Number",
+  "Number",
+  "Text",
+  "Select",
+  "Select",
+  "Select",
+  "Number",
+  "Text",
+  "MultiSelect",
+  "Number",
+  "Number",
+  "Number",
+  "Modifier",
+  "MultiSelect",
+  "Textarea",
+]
+`;
